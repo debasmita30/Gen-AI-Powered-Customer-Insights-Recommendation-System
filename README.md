@@ -1,1 +1,1 @@
-# Gen-AI-Powered-Customer-Insights-Recommendation-System
+# Gen AI Powered Customer Insights Recommendation System
