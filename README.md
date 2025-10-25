@@ -1,4 +1,6 @@
 ## Gen AI Powered Customer Insights Recommendation System
+App Link:-
+https://gen-ai-powered-customer-insights-recommendation-system.streamlit.app/
 
 📌 Overview
 
